@@ -1,3 +1,4 @@
+
 <!-- Cabeçalho animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=000000&amp;height=200&amp;section=header&amp;animation=fadeIn" alt="Cabeçalho preto animado" />
 
@@ -12,9 +13,9 @@
   </a>
 </div>
 
-<!-- GIF de apresentação -->
+<!-- GIF de apresentação: Gengar -->
 <div align="center">
-  <img src="https://media.tenor.com/44LTIVoTPwsAAAAM/missed-me-brian-moser.gif" width="400" alt="Missed me GIF" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2drMjdycnI2bjY3aXlzb3p3M210NXpjMzg2NGF0Y2RpOGY1MmYwNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rTnoTuupwRowE/200.webp" width="400" alt="Gengar" />
 </div>
 
 <!-- Perfil TryHackMe -->
@@ -24,7 +25,7 @@
   </a>
 </div>
 
-<!-- Idiomas: os arquivos abaixo existem no repositório -->
+<!-- Idiomas -->
 <div align="center">
   <h4>
     <a href="./README.md">🇧🇷 Português</a> |
@@ -38,19 +39,24 @@
   <img src="https://media.tenor.com/y-cCxl8uEw0AAAAM/yetopen.gif" alt="Animação com temática hacker" width="120" height="120" />
 </div>
 
- Quem sou eu?
+## Quem sou eu?
+
 Sou WesleyA0101, um defensor fervoroso da liberdade digital e do software livre. Inspirado pelos gigantes Richard Stallman e Linus Torvalds, busco contribuir para um mundo digital mais aberto, no qual a liberdade, a transparência e o compartilhamento de conhecimento sejam a base do nosso trabalho.
+
 <div align="center">
   <img src="https://www.gnu.org/graphics/heckert_gnu.small.png" alt="Logotipo GNU, símbolo ligado ao software livre" width="80" height="80" />
 </div>
 
- O que me define
--  Curiosidade sobre desenvolvimento de malware e segurança computacional.
--  Paixão pela filosofia do software livre.
--  Autodidata em hacking e programação.
--  Desenvolvimento de ferramentas de intrusão e exploração de vulnerabilidades para estudo e testes autorizados.
--  Dedicação a projetos éticos que incentivam o compartilhamento do conhecimento.
-   Tecnologias
+## O que me define
+
+- Curiosidade sobre desenvolvimento de malware e segurança computacional.
+- Paixão pela filosofia do software livre.
+- Autodidata em hacking e programação.
+- Desenvolvimento de ferramentas de intrusão e exploração de vulnerabilidades para estudo e testes autorizados.
+- Dedicação a projetos éticos que incentivam o compartilhamento do conhecimento.
+
+## Tecnologias
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="60" height="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" />
@@ -60,21 +66,34 @@ Sou WesleyA0101, um defensor fervoroso da liberdade digital e do software livre.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash e Shell Script" width="60" height="60" />
 </div>
 
- Projetos relevantes
-🔹 Bitwise Journey — Rumo à Programação de Baixo Nível
+## Projetos relevantes
+
+🔹 **Bitwise Journey — Rumo à Programação de Baixo Nível**
+
 Um roadmap de estudos para desenvolver habilidades em programação de baixo nível, sistemas operacionais e fundamentos da computação. Explore conteúdos sobre programação de sistemas, hardware e otimização.
-🔹 Scanner Demon
+
+🔹 **Scanner Demon**
+
 Ferramenta em C para escaneamento de redes, verificação da atividade de hosts e análise de portas em um endereço IP. Voltada a estudos de segurança, auditorias e testes autorizados.
-🔹 Estudo de Ransomware
+
+🔹 **Estudo de Ransomware**
+
 Repositório dedicado a documentar estudos sobre ransomware e desenvolvimento de malware, considerando suas técnicas e implicações para a segurança da informação, com finalidade educacional.
-🔹 LFIvader
+
+🔹 **LFIvader**
+
 Scanner desenvolvido em C para identificar vulnerabilidades do tipo Local File Inclusion (LFI) em aplicações web e organizar os resultados para análise em avaliações de segurança autorizadas.
-🔹 PDF-Split-PRO
+
+🔹 **PDF-Split-PRO**
+
 Aplicação para separar páginas de arquivos PDF e renomeá-las automaticamente com base em palavras-chave, ajudando a automatizar tarefas repetitivas e organizar documentos.
- Filosofia
+
+## Filosofia
+
 “A liberdade de explorar, compartilhar e aprender é o que nos torna verdadeiramente humanos.”
 
 “Quando você utiliza software livre, você está no controle. Quando você usa software proprietário, o software está no controle de você.”
+
 — Richard Stallman
 
 <div align="center">
@@ -86,7 +105,8 @@ Aplicação para separar páginas de arquivos PDF e renomeá-las automaticamente
 
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animação decorativa de programação" />
 
-<!-- Gráfico de atividade: usando uma implantação alternativa porque o endpoint antigo da Vercel foi reportado como desativado -->
+<!-- Gráfico de atividade -->
 <div align="center">
   <img width="100%" src="https://jeskei-readme-activity-graph.vercel.app/graph?username=WesleyA0101&amp;bg_color=000000&amp;color=ff0000&amp;line=8b0000&amp;point=ff4500&amp;hide_border=true" alt="Gráfico de atividade do GitHub de WesleyA0101" />
 </div>
+```
