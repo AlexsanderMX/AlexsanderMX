@@ -41,7 +41,7 @@
 
 ## Quem sou eu?
 
-Sou WesleyA0101, um defensor fervoroso da liberdade digital e do software livre. Inspirado pelos gigantes Richard Stallman e Linus Torvalds, busco contribuir para um mundo digital mais aberto, no qual a liberdade, a transparência e o compartilhamento de conhecimento sejam a base do nosso trabalho.
+Sou Alexsander, um defensor fervoroso da liberdade digital e do software livre. Inspirado pelos gigantes Richard Stallman e Linus Torvalds, busco contribuir para um mundo digital mais aberto, no qual a liberdade, a transparência e o compartilhamento de conhecimento sejam a base do nosso trabalho.
 
 <div align="center">
   <img src="https://www.gnu.org/graphics/heckert_gnu.small.png" alt="Logotipo GNU, símbolo ligado ao software livre" width="80" height="80" />
